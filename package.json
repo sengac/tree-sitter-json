@@ -1,8 +1,8 @@
 {
   "name": "@sengac/tree-sitter-json",
-  "version": "0.25.3",
+  "version": "0.25.4",
   "description": "JSON grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-json",
+  "repository": "https://github.com/sengac/tree-sitter-json",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",
@@ -43,7 +43,7 @@
     "tree-sitter-cli": "^0.24.4"
   },
   "peerDependencies": {
-    "@sengac/tree-sitter": "^0.25.8"
+    "@sengac/tree-sitter": "^0.25.10"
   },
   "peerDependenciesMeta": {
     "@sengac/tree-sitter": {
